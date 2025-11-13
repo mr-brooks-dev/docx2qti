@@ -37,7 +37,7 @@ HOW TO USE:
 
 2. PREPARE YOUR FILES
    - Place your quiz .docx file(s) in the same folder as these scripts
-   - Make sure correct answers are highlighted in Word
+   - Make sure correct answers are highlighted in Word or use the highlighter tool I made here (see the highlighter folder)
 
 3. RUN THE CONVERTER
    - Double-click: run_docx_to_qti.bat
