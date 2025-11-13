@@ -1,0 +1,23 @@
+If an enemy goes below the ground, destroy the enemy.
+
+values[0] = 5.0f;
+
+// If the player collides with a spike, destroy the spike
+
+Box 1 (External Script Editor)
+
+Cannot implicitly convert type ‘float’ to ‘int’
+
+Instantiate(objectPrefab, spawner.transform, true);
+
+Debug.Log("Hello world.");
+
+Player input should be handled in the Update() function.
+
+namespaces, class declaration, variables, functions
+
+Line 4
+
+public float speed;
+
+public string playerName;
