@@ -7,6 +7,10 @@ WHAT THIS DOES:
 Automagically converts Microsoft Word quiz documents (.docx) into Canvas-
 compatible QTI format files that can be imported directly into your LMS.
 
+SHORT DEMO VIDEO:
+-----------------
+https://youtu.be/5WrE9dUl9a8
+
 FEATURES:
 ---------
 ✓ Automatic dependency installation
