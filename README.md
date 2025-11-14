@@ -1,6 +1,7 @@
                     DOCX to Canvas QTI Converter
                           Quick Start Guide
-================================================================================
+===============================================
+
 WHAT THIS DOES:
 ---------------
 Automagically converts Microsoft Word quiz documents (.docx) into Canvas-
