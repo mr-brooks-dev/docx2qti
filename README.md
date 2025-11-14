@@ -33,7 +33,7 @@ Supported question types:
 - Multiple answer (multiple correct answers)
 - True/False (treated as multiple choice)
 
-Note: Your answer choices dont have to be labled A. B. C. or 1, 2, 3, etc. 
+Note: Your answer choices don't have to be labeled A. B. C. or 1, 2, 3, etc. 
       They just need to be on a separate line.
 
 Your Word quiz should look like this: 
